@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6fcd35f3.chunk.css",
-    "main.js": "/static/js/main.c3023a67.chunk.js",
-    "main.js.map": "/static/js/main.c3023a67.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.49420e8f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.49420e8f.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.062ad758.chunk.js": "/static/js/2.062ad758.chunk.js",
-    "static/js/2.062ad758.chunk.js.map": "/static/js/2.062ad758.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.39abe2644b8cd82f07ac514b740ebc8d.js": "/precache-manifest.39abe2644b8cd82f07ac514b740ebc8d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.6fcd35f3.chunk.css.map": "/static/css/main.6fcd35f3.chunk.css.map",
-    "static/js/2.062ad758.chunk.js.LICENSE.txt": "/static/js/2.062ad758.chunk.js.LICENSE.txt"
+    "main.css": "/bbm-gh/static/css/main.6fcd35f3.chunk.css",
+    "main.js": "/bbm-gh/static/js/main.d52d538f.chunk.js",
+    "main.js.map": "/bbm-gh/static/js/main.d52d538f.chunk.js.map",
+    "runtime-main.js": "/bbm-gh/static/js/runtime-main.66cb5e41.js",
+    "runtime-main.js.map": "/bbm-gh/static/js/runtime-main.66cb5e41.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/bbm-gh/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.062ad758.chunk.js": "/bbm-gh/static/js/2.062ad758.chunk.js",
+    "static/js/2.062ad758.chunk.js.map": "/bbm-gh/static/js/2.062ad758.chunk.js.map",
+    "index.html": "/bbm-gh/index.html",
+    "precache-manifest.ec5883a77b83d2d3ac014cbda9cd1270.js": "/bbm-gh/precache-manifest.ec5883a77b83d2d3ac014cbda9cd1270.js",
+    "service-worker.js": "/bbm-gh/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/bbm-gh/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.6fcd35f3.chunk.css.map": "/bbm-gh/static/css/main.6fcd35f3.chunk.css.map",
+    "static/js/2.062ad758.chunk.js.LICENSE.txt": "/bbm-gh/static/js/2.062ad758.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.49420e8f.js",
+    "static/js/runtime-main.66cb5e41.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.062ad758.chunk.js",
     "static/css/main.6fcd35f3.chunk.css",
-    "static/js/main.c3023a67.chunk.js"
+    "static/js/main.d52d538f.chunk.js"
   ]
 }
