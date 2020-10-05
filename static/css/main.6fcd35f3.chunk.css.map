@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,cACE,uBAAwB,CACxB,UACF","file":"main.6fcd35f3.chunk.css","sourcesContent":[".badge-indigo {\n  background-color: purple;\n  color: white;\n}\n"]}
