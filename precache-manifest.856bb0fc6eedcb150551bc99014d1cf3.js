@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98f5767a62f50c762aa280c3714b74ca",
+    "revision": "c50474e99164347f934ba6bfaec9ed9a",
     "url": "/bbm-gh/index.html"
   },
   {
-    "revision": "cdb1a0618526cec9dbb1",
+    "revision": "7e6c60d9d76c654122fa",
     "url": "/bbm-gh/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "c178a978031fa7e1e426",
+    "revision": "4f0bf6db5e8824368abe",
     "url": "/bbm-gh/static/css/main.6fcd35f3.chunk.css"
   },
   {
-    "revision": "cdb1a0618526cec9dbb1",
-    "url": "/bbm-gh/static/js/2.062ad758.chunk.js"
+    "revision": "7e6c60d9d76c654122fa",
+    "url": "/bbm-gh/static/js/2.ab86334d.chunk.js"
   },
   {
     "revision": "6a3315418ff229eedef5f19694365f7f",
-    "url": "/bbm-gh/static/js/2.062ad758.chunk.js.LICENSE.txt"
+    "url": "/bbm-gh/static/js/2.ab86334d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c178a978031fa7e1e426",
-    "url": "/bbm-gh/static/js/main.d52d538f.chunk.js"
+    "revision": "4f0bf6db5e8824368abe",
+    "url": "/bbm-gh/static/js/main.2468b8d2.chunk.js"
   },
   {
     "revision": "6076933bed6952c42ca5",
