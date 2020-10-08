@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c50474e99164347f934ba6bfaec9ed9a",
+    "revision": "4a91dfe51cffacdaef18d1d97d7f9ed1",
     "url": "/bbm-gh/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bbm-gh/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "4f0bf6db5e8824368abe",
+    "revision": "440133b354761c7690ac",
     "url": "/bbm-gh/static/css/main.6fcd35f3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bbm-gh/static/js/2.ab86334d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f0bf6db5e8824368abe",
-    "url": "/bbm-gh/static/js/main.2468b8d2.chunk.js"
+    "revision": "440133b354761c7690ac",
+    "url": "/bbm-gh/static/js/main.aa4736d8.chunk.js"
   },
   {
     "revision": "6076933bed6952c42ca5",
